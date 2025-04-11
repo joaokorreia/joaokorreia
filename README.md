@@ -1,16 +1,27 @@
-## Hi there 👋
+# **João Correia** 🚀
+ 💻 Aluno de terceiro ano de Licenciatura em Engenharia Informática 
 
-<!--
-**joaokorreia/joaokorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Estou neste momento na Faculdade de Ciências da Universidade de Lisboa, a acabar a Licenciatura este verão, com planos para continuar em Mestrado.
 
-Here are some ideas to get you started:
+📖 Interesse em Segurança Informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Facilidade em aprender conteúdos práticos.
+
+
+## Skillset
+
+### Programming Languages:
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,html,css,js,haskell,assembly,visualg,angular,node.js)](https://skillicons.dev) <br>
+
+### Tools:
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github)](https://skillicons.dev) <br>
+
+### Operating Systems:
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev) <br>
