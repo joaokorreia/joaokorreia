@@ -14,7 +14,7 @@ Estou neste momento na Faculdade de Ciências da Universidade de Lisboa, a acaba
 ### Programming Languages:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,c++,java,python,mysql,html,css,js,haskell,mongodb,angular,nodejs)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,haskell,mongodb,mysql,html,css,js,nodejs,angular)](https://skillicons.dev) <br>
 
 ### Tools:
 <br>
