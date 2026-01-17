@@ -1,13 +1,8 @@
 # **João Correia**
- 💻 Aluno de terceiro ano de Licenciatura em Engenharia Informática 
+ 💻 Aluno no quarto ano a estudar Engenharia Informática 
 
 ## About me
-Estou neste momento na Faculdade de Ciências da Universidade de Lisboa, a acabar a Licenciatura este verão, com planos para continuar em Mestrado.
-
-📖 Interesse em Segurança Informática.
-
-📚 Facilidade em aprender conteúdos práticos.
-
+Estou neste momento na Faculdade de Ciências da Universidade de Lisboa, a acabar a Licenciatura e a começar o Mestrado em Engenharia Informática com especialização em Segurança.
 
 ## Skillset
 
